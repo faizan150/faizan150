@@ -5,7 +5,6 @@ I'm Muhammad Faizan, a passionate software developer and tech enthusiast.
 🔭 I’m currently working on: Laravel Projects<br>
 🌱 I’m currently learning: laravel Php<br>
 👯 I’m looking to collaborate on: Laravel Project <br>
-🤔 I’m looking for help with: [Any specific challenges you're facing and need assistance]<br>
 <!-- 💬 Ask me about: [Your areas of expertise or interests]-->
 📫 How to reach me: faizi12570@gmail.com<br>
 <!--😄 Pronouns: [Your preferred pronouns, e.g., he/him, she/her, they/them]
