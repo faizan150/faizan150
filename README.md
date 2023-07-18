@@ -7,8 +7,8 @@ I'm Muhammad Faizan, a passionate software developer and tech enthusiast.
 👯 I’m looking to collaborate on: Laravel Project <br>
 <!-- 💬 Ask me about: [Your areas of expertise or interests]-->
 📫 How to reach me: faizi12570@gmail.com<br>
-<!--😄 Pronouns: [Your preferred pronouns, e.g., he/him, she/her, they/them]
-⚡ Fun fact: [An interesting fun fact about yourself]
+😄 Also interested to learn new Technologies
+<!--⚡ Fun fact: [An interesting fun fact about yourself]
 -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan150&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan150&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
