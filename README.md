@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Muhammad Faizan, a passionate software developer and tech enthusiast.
+This is Muhammad Faizan, a passionate software developer and tech enthusiast.
 
 🔭 I’m currently working on: Laravel Projects<br>
 🌱 I’m currently learning: laravel Php<br>
