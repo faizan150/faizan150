@@ -18,7 +18,7 @@ This is Muhammad Faizan, a passionate software developer and tech enthusiast.
 
 <p align="center"> 
   Total Visitors on My Profile<br>
-  <img src="https://profile-counter.glitch.me/faizan150/count.svg" />
+  <img src="https://profile-counter.glitch.me/faizan150/count.svg?start=10000" />
 </p>
 
 <!--
