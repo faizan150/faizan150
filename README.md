@@ -7,7 +7,7 @@ This is Muhammad Faizan, a passionate software developer and tech enthusiast.
 👯 I’m looking to collaborate on: Laravel Project <br>
 <!-- 💬 Ask me about: [Your areas of expertise or interests]-->
 📫 How to reach me: faizi12570@gmail.com<br>
-⚡ DM me WhatsApp: +92-340-0919768<be>
+⚡ DM me WhatsApp: +92-340-0919768<br>
 😄 Also interested to learn new Technologies
 <!--⚡ Fun fact: [An interesting fun fact about yourself]
 -->
