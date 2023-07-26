@@ -3,7 +3,7 @@
 This is Muhammad Faizan, a passionate software developer and tech enthusiast.
 
 🔭 I’m currently working on: Laravel Projects<br>
-🌱 I’m currently learning: laravel Php<br>
+🌱 I’m currently learning: Laravel Php<br>
 👯 I’m looking to collaborate on: Laravel Project <br>
 <!-- 💬 Ask me about: [Your areas of expertise or interests]-->
 📫 How to reach me: faizi12570@gmail.com<br>
