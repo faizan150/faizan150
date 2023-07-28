@@ -22,9 +22,9 @@ This is Muhammad Faizan, a passionate software developer and tech enthusiast.
   <img src="https://profile-counter.glitch.me/faizan150/count.svg?start=10000" />
 </p>
 
-<!--
+
 Feel free to explore my repositories to find some cool projects. If you find anything interesting, don't hesitate to contribute or reach out to me. Let's learn and grow together!
--->
+
 
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/your_username)
 -->
