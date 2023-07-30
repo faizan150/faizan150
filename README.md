@@ -16,7 +16,6 @@ This is <b>Muhammad Faizan</b>, a passionate software developer and tech enthusi
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan150&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizan150&layout=compact&theme=radical)](https://git.io/streak-stats)
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 <p align="center"> 
   Total Visitors on My Profile<br>
