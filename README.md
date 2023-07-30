@@ -15,9 +15,12 @@ This is <b>Muhammad Faizan</b>, a passionate software developer and tech enthusi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan150&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan150&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizan150&layout=compact&theme=radical)](https://git.io/streak-stats)<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizan150&layout=compact&theme=radical)](https://git.io/streak-stats)<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a><br>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=faizan150&theme=juicyfresh&no-bg=true" />
+<img src="https://myreadme.vercel.app/api/embed/faizan150?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 <p align="center"> 
