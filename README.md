@@ -16,6 +16,8 @@ This is <b>Muhammad Faizan</b>, a passionate software developer and tech enthusi
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan150&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizan150&layout=compact&theme=radical)](https://git.io/streak-stats)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 <p align="center"> 
   Total Visitors on My Profile<br>
