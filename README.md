@@ -18,7 +18,7 @@ This is <b>Muhammad Faizan</b>, a passionate software developer and tech enthusi
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizan150&layout=compact&theme=radical)](https://git.io/streak-stats)
 
 <p align="center"> 
-  ::Total Visitors on My Profile::<br>
+  Total Visitors on My Profile<br>
   <img src="https://profile-counter.glitch.me/faizan150/count.svg?start=10000" />
 </p>
 
