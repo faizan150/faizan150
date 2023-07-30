@@ -18,8 +18,7 @@ This is <b>Muhammad Faizan</b>, a passionate software developer and tech enthusi
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizan150&layout=compact&theme=radical)](https://git.io/streak-stats)
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.0.0
+
 
 <p align="center"> 
   Total Visitors on My Profile<br>
