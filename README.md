@@ -20,7 +20,7 @@ This is <b>Muhammad Faizan</b>, a passionate software developer and tech enthusi
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)<br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=faizan150&theme=juicyfresh&no-bg=true" />
-<img src="https://myreadme.vercel.app/api/embed/faizan150?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/faizan150?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="background-color: black;" />
 
 
 <p align="center"> 
