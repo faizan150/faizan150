@@ -4,7 +4,7 @@ This is <b>Muhammad Faizan</b>, a passionate software developer and tech enthusi
 🔭 I’m currently working on: Laravel Projects<br>
 🌱 I’m currently learning: Laravel Php<br>
 👯 I’m looking to collaborate on: Laravel Project <br>
-<!-- 💬 Ask me about: [Your areas of expertise or interests]-->
+
 📫 How to reach me: faizi12570@gmail.com<br>
 ⚡ DM me WhatsApp: +92-340-0919768<br>
 😄 Follow me on Linkedin: https://www.linkedin.com/in/muhammad-faizan-928a52215/?originalSubdomain=pk <br>
