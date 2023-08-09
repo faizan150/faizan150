@@ -1,4 +1,4 @@
-<h3>### Hi there 👋</h3>
+<h1>### Hi there 👋</h1>
 This is <b>Muhammad Faizan</b>, a passionate software developer and tech enthusiast.
 
 🔭 I’m currently working on: Laravel Projects<br>
