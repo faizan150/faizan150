@@ -20,7 +20,7 @@ This is <b>Muhammad Faizan</b>, a passionate software developer and tech enthusi
 
 <img src="https://github-profile-trophy.vercel.app/?username=faizan150&theme=juicyfresh&no-bg=true" />
 
-
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 <p align="center"> 
   Total Visitors on My Profile<br>
   <img src="https://profile-counter.glitch.me/faizan150/count.svg?start=10000" />
