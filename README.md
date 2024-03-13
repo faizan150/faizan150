@@ -1,5 +1,6 @@
 <h2>### Hi there 👋</h2>
 This is <b>Muhammad Faizan</b>, a passionate software developer and tech enthusiast.
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 🔭 I’m currently working on: Laravel Projects<br>
 🌱 I’m currently learning: Laravel Php<br>
